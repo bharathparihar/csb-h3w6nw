@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bharathparihar.github.io/csb-h3w6nw/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://bharathparihar.github.io/csb-h3w6nw/static/js/main.ce45dd3b.chunk.js",
+    "main.js.map": "https://bharathparihar.github.io/csb-h3w6nw/static/js/main.ce45dd3b.chunk.js.map",
+    "runtime-main.js": "https://bharathparihar.github.io/csb-h3w6nw/static/js/runtime-main.f6de0161.js",
+    "runtime-main.js.map": "https://bharathparihar.github.io/csb-h3w6nw/static/js/runtime-main.f6de0161.js.map",
+    "static/js/2.cc863786.chunk.js": "https://bharathparihar.github.io/csb-h3w6nw/static/js/2.cc863786.chunk.js",
+    "static/js/2.cc863786.chunk.js.map": "https://bharathparihar.github.io/csb-h3w6nw/static/js/2.cc863786.chunk.js.map",
+    "index.html": "https://bharathparihar.github.io/csb-h3w6nw/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://bharathparihar.github.io/csb-h3w6nw/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.cc863786.chunk.js.LICENSE.txt": "https://bharathparihar.github.io/csb-h3w6nw/static/js/2.cc863786.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6de0161.js",
+    "static/js/2.cc863786.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ce45dd3b.chunk.js"
+  ]
+}
